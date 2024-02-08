@@ -1,4 +1,4 @@
-# follower_count_guessing_gameFollower Count Guessing Game
+# Follower Count Guessing Game
 Welcome to the Follower Count Guessing Game! This simple Python game allows users to compare the number of followers between two randomly chosen social media accounts and guess which one has more followers.
 
 # How to Play
